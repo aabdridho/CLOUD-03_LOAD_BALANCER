@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Microsoft Word temporary files
+~$*
+~WRL*.tmp
+*.tmp
+
+# Editor files
+.vscode/
+.DS_Store
